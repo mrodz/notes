@@ -1,0 +1,21 @@
+- Netflix's revenue has grown more slowly during a period of rapid growth for other tech companies. ![[Pasted image 20250831164705.png]]
+- Netflix has a disparity between their revenues of AVOD vs SVOD, as opposed to other streaming platforms projected for 2029.![[Screenshot 2025-08-31 at 4.48.00 PM.png]]
+- Netflix is among the only profitable streaming companies ![[Pasted image 20250831165026.png]]
+- Netflix's revenue and net income have steadily increased despite relatively stable marketing expenses
+- Netflix's biggest market currently is Europe, the Middle East, and Africa. They can work on Africa and Latin America. ![[Pasted image 20250831165506.png]]
+- The number of active ad-supported users of Netflix worldwide is increasing ![[Pasted image 20250831165612.png]]
+- Netflix has stabilized it's production costs (hovering at around 7.4 Billion annually)
+	- Did growth in the international market occur as a result of Netflix's investment in International Content Spending?
+	![[Pasted image 20250831165834.png]]
+- Netflix is pushing heavily towards content produced in-house
+- Netflix is maintaining the quantity output of it's Original Titles of Film and Docs/Standup, but is increasing the quantity output of its Original Series. There is a decreasing trend in comedies and an increased emphasis on dramas. ![[Pasted image 20250831170056.png]]
+- Netflix is aggressively competing in Asia, but this might be ineffective or moot because of the hyper competitive nature of Chinese and Indian streaming services. pg. 37
+- Netflix and Amazon Prime hold roughly similar viewership; in some countries, this is not the case:
+	- India: Amazon Prime (considerably)
+	- France: Netflix (considerably, mega hit French show)
+	- Australia: Netflix (considerably)
+	- Japan: Amazon Prime (50%)
+- Netflix is the movie distributor with the most Academy Award nominations in the USA in 2025 with 16. The next highest (which is also a streaming service) is Paramount with 3, then Amazon with 2.
+- Netflix lost to FX and HBO Max for wins at the 2025 Golden Globe Awards (3 compared to 5 and 4).
+- Netflix Placed 2nd for # of wins for the Emmy Awards in the USA in 2024 with 24 (FX #1 had 36, HBO #3 had 14).
+- 

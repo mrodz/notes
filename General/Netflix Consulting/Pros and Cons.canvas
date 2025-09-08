@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cd0f76e0e7cabf00","x":-309,"y":-227,"width":449,"height":187,"type":"text","text":"# Recommendation Engine\nNFLX’s ability to generate demand for these older titles, while maintaining high levels of customer satisfaction, helps the company manage and maintain gross margins, subscriber acquisition\n\ncosts, churn rate, and lifetime subscriber profit.\n"},
+		{"id":"4a4b4ee55c1a59ac","x":-500,"y":80,"width":250,"height":60,"type":"text","text":"Inventory Management"},
+		{"id":"92b67805444321c6","x":-210,"y":50,"width":251,"height":121,"type":"text","text":"a quick and personalized way to find titles they are more likely to enjoy"}
+	],
+	"edges":[
+		{"id":"598d5bc2df0a89af","fromNode":"cd0f76e0e7cabf00","fromSide":"bottom","toNode":"4a4b4ee55c1a59ac","toSide":"top"},
+		{"id":"0d0e906ade6f054a","fromNode":"cd0f76e0e7cabf00","fromSide":"bottom","toNode":"92b67805444321c6","toSide":"top"}
+	]
+}

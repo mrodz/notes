@@ -1,0 +1,13 @@
+- Although the USA is still leading the market, it is the Asian countries in particular that are demonstrating how increasing prosperity creates great demand for knowledge, culture, and entertainment. 
+- Traditional TV is still king
+	- As more people turn to OTT video services, traditional TV providers are expected to continue to face challenges in retaining their market share.
+- TV & Video total accounted for 49.69% of the Total Media market revenue in 2022
+- TV & Video total segment, the United States and China accounted for the highest revenues in 2022, with US$271.0 billion and US$89.71 billion respectively.
+- China shows the biggest growth in TV & Video revenue with a CAGR(1) of 9.7%![[Pasted image 20250831134622.png]]
+- With revenue of 31.1 billion US$, the United Kingdom is the biggest market among selected countries, in 2022 ![[Pasted image 20250831134739.png]]
+- The Games market accounted for 25.03% of the total Media market revenue in 2023
+- When compared globally, it is worth noting that in China is expected to generate the highest revenue in the Games market, with an estimated US$112.00bn in 2023.
+- Furthermore, the number of users in the Games market is projected to reach 4.4bn users by 2028. In terms of user penetration, it is anticipated to be 48.9% in 2023 and is projected to increase to 55.5% by 2028. Additionally, the average revenue per user (ARPU) is expected to amount to US$312.80.
+- With average revenue per user by market of US$ 581.49, the United States is the biggest market among selected countries predicted for 2028. This is compared to a predicted ARPU forecast in the US of US$109.9 by 2028 for OTT Video streaming.
+- Japan and eSports are a hot market![[Japan ESports.png]]![[Pasted image 20250831135608.png]]
+- 
