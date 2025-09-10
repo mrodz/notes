@@ -11,14 +11,12 @@
             "id": "e5d34016b688168c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2025-09-08.md",
-                "mode": "source",
-                "source": false
+                "file": "images/IMG_8950.jpg"
               },
-              "icon": "lucide-file",
-              "title": "2025-09-08"
+              "icon": "lucide-image",
+              "title": "IMG_8950"
             }
           }
         ]
@@ -169,18 +167,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "e5d34016b688168c",
+  "active": "3538df12f863d7d7",
   "lastOpenFiles": [
-    "images/Sketch-1.png",
+    "2025-09-10.md",
+    "images/IMG_8950.jpg",
+    "images/IMG_8949.jpg",
+    "images/IMG_8948.jpg",
+    "images/IMG_8947.jpg",
+    "images/IMG_8946.jpg",
+    "IMG_8946.heic",
     "2025-09-08.md",
+    "images/Sketch-1.png",
     "images/Sketch-3.png",
     "images/Sketch-2.png",
     "2025-09-03.md",
     "images/Pasted image 20250903172017.png",
     "images",
     "images/Pasted image 20250903173846.png",
-    "images/Pasted image 20250903174826.png",
-    "images/Screenshot 2025-09-03 at 5.38.42 PM.png",
     "2025-08-29.md",
     "2025-08-27.md",
     "Welcome.md"
