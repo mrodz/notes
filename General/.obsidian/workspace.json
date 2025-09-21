@@ -11,12 +11,14 @@
             "id": "401e67658a011794",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Netflix Consulting/Round 1 Written Case.pdf"
+                "file": "GSC/Casing notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Round 1 Written Case"
+              "icon": "lucide-file",
+              "title": "Casing notes"
             }
           },
           {
@@ -197,9 +199,11 @@
   },
   "active": "401e67658a011794",
   "lastOpenFiles": [
+    "Netflix Consulting/Round 1 Written Case.pdf",
+    "GSC/Casing notes.md",
+    "GSC",
     "2025-09-06.md",
     "Netflix Consulting/Reports Broken Down/2025 SVOD in LATAM.md",
-    "Netflix Consulting/Round 1 Written Case.pdf",
     "Netflix Consulting/Reports Broken Down/2024 Netflix Usage in USA.md",
     "Netflix Consulting/Reports Broken Down/2024 Netflix Games in USA.md",
     "Netflix Consulting/Reports Broken Down/2024 Netflix.md",
@@ -221,7 +225,6 @@
     "Netflix Financials/10k/2025.pdf",
     "Netflix Financials/10k/2024.pdf",
     "Netflix Financials/10k",
-    "Netflix Financials/8k/Jul 17, 2025.pdf",
     "Netflix Financials/8k Notes.md",
     "Netflix Consulting/2025-08-31 @ 23.12.md",
     "Netflix Consulting/Images/Pasted image 20250901161742.png",
