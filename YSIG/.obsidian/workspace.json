@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATP/Intro ATP.md",
+                "file": "ATP/Intro to Accounting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro ATP"
+              "title": "Intro to Accounting"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "4912d92d3a2ecb72",
   "lastOpenFiles": [
-    "ATP/Untitled.md",
     "ATP/Intro ATP.md",
+    "ATP/Intro to Accounting.md",
     "Welcome.md",
     "ATP"
   ]
