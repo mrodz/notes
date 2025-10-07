@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-10-01.md",
+                "file": "2025-10-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-01"
+              "title": "2025-10-06"
             }
           },
           {
@@ -183,16 +183,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "3538df12f863d7d7",
+  "active": "e5d34016b688168c",
   "lastOpenFiles": [
+    "2025-10-01.md",
+    "2025-10-06.md",
+    "2025-09-24.md",
     "images/Pasted image 20251001135219.png",
     "images/Pasted image 20251001131658.png",
     "2025-09-10.md",
-    "2025-10-01.md",
     "2025-09-15.md",
     "2025-09-17.md",
     "2025-09-22.md",
-    "2025-09-24.md",
     "images/Pasted image 20250924134939.png",
     "images/Pasted image 20250924133911.png",
     "images/Pasted image 20250924133038.png",
@@ -206,7 +207,6 @@
     "2025-09-03.md",
     "2025-08-29.md",
     "2025-09-18.md",
-    "images/IMG_8950.jpg",
     "IMG_8946.heic",
     "images",
     "Welcome.md"
