@@ -4,24 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "3762f390fd66e0ea",
+        "id": "9fd750e67c45d68e",
         "type": "tabs",
         "children": [
           {
-            "id": "4912d92d3a2ecb72",
+            "id": "3e9b3f7e7bdd3cbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Stock Pitch/Sports and Live Entertainment.md",
-                "mode": "source",
-                "source": false
+                "file": "Stock Pitch/VICI/10q/2024q1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Sports and Live Entertainment"
+              "icon": "lucide-file-text",
+              "title": "2024q1"
+            }
+          },
+          {
+            "id": "33cbacb20fd0ab25",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Stock Pitch/VICI/10q/2024q2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2024q2"
+            }
+          },
+          {
+            "id": "20cc64a191759fa7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Stock Pitch/VICI/10q/2024q3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2024q3"
+            }
+          },
+          {
+            "id": "f67b7af38d88d1e1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Stock Pitch/VICI/10q/2024q4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2024q4"
+            }
+          },
+          {
+            "id": "4b0103ba53fc2bc3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Stock Pitch/VICI/10q/2025q1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2025q1"
+            }
+          },
+          {
+            "id": "132af9c3f6b0661e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Stock Pitch/VICI/10q/2025q2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2025q2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f7099baff3107edf",
@@ -169,13 +228,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "4912d92d3a2ecb72",
+  "active": "33cbacb20fd0ab25",
   "lastOpenFiles": [
+    "Stock Pitch/VICI/10q/2024q4.pdf",
+    "Stock Pitch/VICI/10q/2024q2.pdf",
+    "Stock Pitch/VICI/10q/2024q3.pdf",
+    "Stock Pitch/VICI/10q/2025q2.pdf",
+    "Stock Pitch/VICI/10q/2024q1.pdf",
+    "Stock Pitch/VICI/10q/2025q1.pdf",
+    "Stock Pitch/VICI/10q/VICI Over Time.xlsx",
+    "Stock Pitch/VICI/10q/~$VICI Over Time.xlsx",
+    "Stock Pitch/VICI/Sports and Live Entertainment.md",
+    "Stock Pitch/VICI/10q",
+    "Stock Pitch/VICI",
+    "Untitled",
     "ATP/Intro to Accounting.md",
-    "Stock Pitch/Sports and Live Entertainment.md",
-    "Stock Pitch",
     "ATP/Intro ATP.md",
-    "Welcome.md",
-    "ATP"
+    "Welcome.md"
   ]
 }
