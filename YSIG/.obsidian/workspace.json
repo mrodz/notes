@@ -11,10 +11,14 @@
             "id": "226d2fa952ba9205",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ATP/03 Income Statement Breakdown.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "03 Income Statement Breakdown"
             }
           }
         ]
@@ -167,6 +171,10 @@
   },
   "active": "226d2fa952ba9205",
   "lastOpenFiles": [
+    "ATP/01 Intro ATP.md",
+    "ATP/02 Intro to Accounting.md",
+    "ATP/03 Income Statement Breakdown.md",
+    "Stock Pitch/VICI/10q/~$VICI Over Time.xlsx",
     "Stock Pitch/VICI/10q/2025q2.pdf",
     "Stock Pitch/VICI/10q/2025q1.pdf",
     "Stock Pitch/VICI/10q/2024q4.pdf",
@@ -174,13 +182,9 @@
     "Stock Pitch/VICI/10q/2024q2.pdf",
     "Stock Pitch/VICI/10q/2024q1.pdf",
     "Stock Pitch/VICI/10q/VICI Over Time.xlsx",
-    "Stock Pitch/VICI/10q/~$VICI Over Time.xlsx",
     "Stock Pitch/VICI/Sports and Live Entertainment.md",
     "Stock Pitch/VICI/10q",
     "Stock Pitch/VICI",
-    "Untitled",
-    "ATP/Intro to Accounting.md",
-    "ATP/Intro ATP.md",
     "Welcome.md"
   ]
 }

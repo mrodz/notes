@@ -1,4 +1,3 @@
-
 ## Income statement
 
 ## Cash flow statement
