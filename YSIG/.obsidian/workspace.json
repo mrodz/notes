@@ -13,15 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATP/03 Income Statement Breakdown.md",
+                "file": "Debt Capital Markets Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 Income Statement Breakdown"
+              "title": "Debt Capital Markets Overview"
+            }
+          },
+          {
+            "id": "d3f002f3fab26411",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Stock Pitch/UMG.AS/Universal Music Group Soft Pitch-2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Universal Music Group Soft Pitch-2"
+            }
+          },
+          {
+            "id": "059d9fb0b6a09e36",
+            "type": "leaf",
+            "state": {
+              "type": "audio",
+              "state": {
+                "file": "Stock Pitch/UMG.AS/39c200d7-2c6e-4b7d-9eb1-b4ed3d128b03.mp3"
+              },
+              "icon": "lucide-file-audio",
+              "title": "39c200d7-2c6e-4b7d-9eb1-b4ed3d128b03"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,22 +194,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "226d2fa952ba9205",
+  "active": "d3f002f3fab26411",
   "lastOpenFiles": [
+    "Stock Pitch/VICI/VICI Properties Soft Pitch.pdf",
+    "Stock Pitch/UMG.AS/Universal Music Group Soft Pitch-2.pdf",
+    "Stock Pitch/UMG.AS/Universal Music Group Soft Pitch Notes.pdf",
+    "Stock Pitch/VICI/Sports and Live Entertainment.md",
+    "Stock Pitch/UMG.AS/Half Year Report.md",
+    "Stock Pitch/UMG.AS/39c200d7-2c6e-4b7d-9eb1-b4ed3d128b03.mp3",
+    "Debt Capital Markets Overview.md",
+    "ATP/03 Income Statement Breakdown.md",
+    "Stock Pitch/UMG.AS",
+    "Stock Pitch/Untitled.md",
     "ATP/01 Intro ATP.md",
     "ATP/02 Intro to Accounting.md",
-    "ATP/03 Income Statement Breakdown.md",
     "Stock Pitch/VICI/10q/~$VICI Over Time.xlsx",
     "Stock Pitch/VICI/10q/2025q2.pdf",
     "Stock Pitch/VICI/10q/2025q1.pdf",
     "Stock Pitch/VICI/10q/2024q4.pdf",
     "Stock Pitch/VICI/10q/2024q3.pdf",
-    "Stock Pitch/VICI/10q/2024q2.pdf",
-    "Stock Pitch/VICI/10q/2024q1.pdf",
-    "Stock Pitch/VICI/10q/VICI Over Time.xlsx",
-    "Stock Pitch/VICI/Sports and Live Entertainment.md",
-    "Stock Pitch/VICI/10q",
-    "Stock Pitch/VICI",
     "Welcome.md"
   ]
 }
