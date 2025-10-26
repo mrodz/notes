@@ -4,20 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "c05b9500240444fe",
+        "id": "969ed3ac86b62a65",
         "type": "tabs",
         "children": [
           {
-            "id": "7498fa7aada4381a",
+            "id": "e1539335278a520c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "pdf",
+              "state": {
+                "file": "Stock Pitch/RBLX/Roblox Further Questions.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Roblox Further Questions"
+            }
+          },
+          {
+            "id": "81fa2677536997a5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Stock Pitch/RBLX/Receipt Date - 2024-Feb-21 - RBLX.N - Roblox Corp - 10-K - Roblox Corp 10-K - 24656516.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Receipt Date - 2024-Feb-21 - RBLX.N - Roblox Corp - 10-K - Roblox Corp 10-K - 24656516"
+            }
+          },
+          {
+            "id": "c08ccc1e7b4654aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stock Pitch/RBLX/Report.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Report"
+            }
+          },
+          {
+            "id": "4be45393523e5622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stock Pitch/RBLX/Report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Report"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 800.5
   },
   "right": {
     "id": "f7099baff3107edf",
@@ -165,25 +208,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "7498fa7aada4381a",
+  "active": "c08ccc1e7b4654aa",
   "lastOpenFiles": [
-    "Stock Pitch/UMG.AS/39c200d7-2c6e-4b7d-9eb1-b4ed3d128b03.mp3",
+    "Stock Pitch/RBLX/GridExport_October_26_2025_4_53_20.xlsx",
+    "Stock Pitch/RBLX/Receipt Date - 2024-Feb-21 - RBLX.N - Roblox Corp - 10-K - Roblox Corp 10-K - 24656516.pdf",
+    "Stock Pitch/RBLX/Roblox Further Questions.pdf",
+    "Stock Pitch/RBLX/Report.md",
+    "Stock Pitch/RBLX/Receipt Date - 2022-Nov-09 - RBLX.N - Roblox Corp - 10-Q - Roblox Corp 10-Q - 221372660.pdf",
+    "Stock Pitch/RBLX/RevenueBookings.png",
+    "Stock Pitch/RBLX/EBITDA_AdjEBITDA_MarginEBITDA.png",
+    "Pasted image 20251026040906.png",
+    "Stock Pitch/RBLX/Receipt Date - 2023-Feb-28 - RBLX.N - Roblox Corp - 10-K - Roblox Corp 10-K - 23686168.pdf",
+    "Stock Pitch/RBLX/Receipt Date - 2025-Feb-18 - RBLX.N - Roblox Corp - 10-K - Roblox Corp 10-K - 25632911.pdf",
+    "Stock Pitch/RBLX/Receipt Date - 2022-May-11 - RBLX.N - Roblox Corp - 10-Q - Roblox Corp 10-Q - 22913782.pdf",
+    "Stock Pitch/RBLX/Receipt Date - 2021-Nov-09 - RBLX.N - Roblox Corp - 10-Q - Roblox Corp 10-Q - 211392133.pdf",
+    "Stock Pitch/RBLX/Receipt Date - 2022-Aug-10 - RBLX.N - Roblox Corp - 10-Q - Roblox Corp 10-Q - 221151846.pdf",
+    "Stock Pitch/RBLX/Receipt Date - 2022-Aug-10 - RBLX.N - Roblox Corp - 10-Q - Roblox Corp 10-Q - 221151846 (1).pdf",
+    "Stock Pitch/RBLX/Receipt Date - 2022-Feb-25 - RBLX.N - Roblox Corp - 10-K - Roblox Corp 10-K - 22680104.pdf",
+    "Stock Pitch/RBLX/Pasted image 20251026015213.png",
+    "Stock Pitch/RBLX/Defs.md",
+    "Pasted image 20251026015323.png",
+    "Stock Pitch/RBLX/RevenueAndEBITDA.png",
+    "Stock Pitch/Untitled.md",
     "Debt Capital Markets Overview.md",
-    "Stock Pitch/UMG.AS/Universal Music Group Soft Pitch-2.pdf",
-    "Stock Pitch/VICI/VICI Properties Soft Pitch.pdf",
-    "Stock Pitch/UMG.AS/Universal Music Group Soft Pitch Notes.pdf",
     "Stock Pitch/VICI/Sports and Live Entertainment.md",
     "Stock Pitch/UMG.AS/Half Year Report.md",
     "ATP/03 Income Statement Breakdown.md",
-    "Stock Pitch/UMG.AS",
-    "Stock Pitch/Untitled.md",
     "ATP/01 Intro ATP.md",
     "ATP/02 Intro to Accounting.md",
-    "Stock Pitch/VICI/10q/~$VICI Over Time.xlsx",
-    "Stock Pitch/VICI/10q/2025q2.pdf",
-    "Stock Pitch/VICI/10q/2025q1.pdf",
-    "Stock Pitch/VICI/10q/2024q4.pdf",
-    "Stock Pitch/VICI/10q/2024q3.pdf",
     "Welcome.md"
   ]
 }

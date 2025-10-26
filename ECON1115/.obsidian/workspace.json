@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a9da40a4feaed00f",
+        "id": "a6e0568b13d3659c",
         "type": "tabs",
         "children": [
           {
-            "id": "9db895d32e68f54e",
+            "id": "26ba6552131cb894",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-10-22.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-10-22"
+              "title": "New tab"
             }
           }
         ]
@@ -169,10 +165,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "9db895d32e68f54e",
+  "active": "26ba6552131cb894",
   "lastOpenFiles": [
-    "images/pareto frontier.png",
     "2025-10-22.md",
+    "images/pareto frontier.png",
     "images/pareto A.png",
     "2025-10-20.md",
     "images/SD Profit.png",
