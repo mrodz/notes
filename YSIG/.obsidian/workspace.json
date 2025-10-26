@@ -8,7 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1539335278a520c",
+            "id": "3a332761b35da63c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATP/02 Intro to Accounting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 Intro to Accounting"
+            }
+          },
+          {
+            "id": "67dfa915e706876f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stock Pitch/RBLX/Defs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Defs"
+            }
+          },
+          {
+            "id": "f3f716d84bdd3926",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -18,49 +46,9 @@
               "icon": "lucide-file-text",
               "title": "Roblox Further Questions"
             }
-          },
-          {
-            "id": "81fa2677536997a5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Stock Pitch/RBLX/Receipt Date - 2024-Feb-21 - RBLX.N - Roblox Corp - 10-K - Roblox Corp 10-K - 24656516.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Receipt Date - 2024-Feb-21 - RBLX.N - Roblox Corp - 10-K - Roblox Corp 10-K - 24656516"
-            }
-          },
-          {
-            "id": "c08ccc1e7b4654aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stock Pitch/RBLX/Report.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Report"
-            }
-          },
-          {
-            "id": "4be45393523e5622",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stock Pitch/RBLX/Report.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Report"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 800.5
+    "width": 256.5
   },
   "right": {
     "id": "f7099baff3107edf",
@@ -208,34 +196,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "c08ccc1e7b4654aa",
+  "active": "67dfa915e706876f",
   "lastOpenFiles": [
-    "Stock Pitch/RBLX/GridExport_October_26_2025_4_53_20.xlsx",
-    "Stock Pitch/RBLX/Receipt Date - 2024-Feb-21 - RBLX.N - Roblox Corp - 10-K - Roblox Corp 10-K - 24656516.pdf",
-    "Stock Pitch/RBLX/Roblox Further Questions.pdf",
-    "Stock Pitch/RBLX/Report.md",
-    "Stock Pitch/RBLX/Receipt Date - 2022-Nov-09 - RBLX.N - Roblox Corp - 10-Q - Roblox Corp 10-Q - 221372660.pdf",
+    "ATP/02 Intro to Accounting.md",
+    "ATP/01 Intro ATP.md",
+    "ATP/03 Income Statement Breakdown.md",
+    "Stock Pitch/RBLX/Pasted image 20251026015323.png",
+    "Stock Pitch/VICI/VICI Properties Soft Pitch.pdf",
+    "Stock Pitch/RBLX/Pasted image 20251026040906.png",
+    "Stock Pitch/RBLX/Receipt Date - 2025-May-01 - RBLX.N - Roblox Corp - 10-Q - Roblox Corp 10-Q - 25899605.pdf",
     "Stock Pitch/RBLX/RevenueBookings.png",
-    "Stock Pitch/RBLX/EBITDA_AdjEBITDA_MarginEBITDA.png",
-    "Pasted image 20251026040906.png",
-    "Stock Pitch/RBLX/Receipt Date - 2023-Feb-28 - RBLX.N - Roblox Corp - 10-K - Roblox Corp 10-K - 23686168.pdf",
-    "Stock Pitch/RBLX/Receipt Date - 2025-Feb-18 - RBLX.N - Roblox Corp - 10-K - Roblox Corp 10-K - 25632911.pdf",
-    "Stock Pitch/RBLX/Receipt Date - 2022-May-11 - RBLX.N - Roblox Corp - 10-Q - Roblox Corp 10-Q - 22913782.pdf",
-    "Stock Pitch/RBLX/Receipt Date - 2021-Nov-09 - RBLX.N - Roblox Corp - 10-Q - Roblox Corp 10-Q - 211392133.pdf",
-    "Stock Pitch/RBLX/Receipt Date - 2022-Aug-10 - RBLX.N - Roblox Corp - 10-Q - Roblox Corp 10-Q - 221151846.pdf",
-    "Stock Pitch/RBLX/Receipt Date - 2022-Aug-10 - RBLX.N - Roblox Corp - 10-Q - Roblox Corp 10-Q - 221151846 (1).pdf",
-    "Stock Pitch/RBLX/Receipt Date - 2022-Feb-25 - RBLX.N - Roblox Corp - 10-K - Roblox Corp 10-K - 22680104.pdf",
-    "Stock Pitch/RBLX/Pasted image 20251026015213.png",
+    "Stock Pitch/RBLX/Receipt Date - 2025-Jul-31 - RBLX.N - Roblox Corp - 10-Q - Roblox Corp 10-Q - 251169529.pdf",
+    "Stock Pitch/RBLX/Report.md",
     "Stock Pitch/RBLX/Defs.md",
-    "Pasted image 20251026015323.png",
+    "Stock Pitch/RBLX/Roblox Further Questions.pdf",
+    "Stock Pitch/RBLX/~$CF-Export-26-10-2025.xlsx",
+    "Stock Pitch/RBLX/~$rblx_trends.xlsx",
+    "Stock Pitch/RBLX/Receipt Date - 2024-Feb-21 - RBLX.N - Roblox Corp - 10-K - Roblox Corp 10-K - 24656516.pdf",
+    "Stock Pitch/RBLX/GridExport_October_26_2025_4_53_20.xlsx",
+    "Stock Pitch/RBLX/Receipt Date - 2022-Nov-09 - RBLX.N - Roblox Corp - 10-Q - Roblox Corp 10-Q - 221372660.pdf",
+    "Stock Pitch/RBLX/EBITDA_AdjEBITDA_MarginEBITDA.png",
+    "Stock Pitch/RBLX/Receipt Date - 2023-Feb-28 - RBLX.N - Roblox Corp - 10-K - Roblox Corp 10-K - 23686168.pdf",
+    "Stock Pitch/RBLX/Pasted image 20251026015213.png",
     "Stock Pitch/RBLX/RevenueAndEBITDA.png",
     "Stock Pitch/Untitled.md",
     "Debt Capital Markets Overview.md",
     "Stock Pitch/VICI/Sports and Live Entertainment.md",
     "Stock Pitch/UMG.AS/Half Year Report.md",
-    "ATP/03 Income Statement Breakdown.md",
-    "ATP/01 Intro ATP.md",
-    "ATP/02 Intro to Accounting.md",
     "Welcome.md"
   ]
 }

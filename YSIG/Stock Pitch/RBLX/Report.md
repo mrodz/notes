@@ -1,5 +1,21 @@
 
 ![[Pasted image 20251026040906.png]]
+Developer Exchange fees are booked as a **cost of revenue**. As more developers qualify and more Robux are cashed out for fiat, **DevEx payouts directly increase expenses**.
+- Roblox explicitly notes that while it aims to increase creator earnings, it seeks to do so “while maintaining reasonable margins”
+- Roblox enabled smaller developers to earn real income, expanding the creative base (lowering the minimum payout threshold (from 100,000 → 50,000 → 30,000)
+- Roblox plans to offset DevEx expansion through: 
+	- Infrastructure efficiency (AI moderation, self-managed data centers)
+	- Slower R&D and headcount growth through 2025
+
+## Biggest expenses 
+Revenue increased 20.9429% y/y
+- Developer exchange fees (29.28% of revenue) (51.9043% increase y/y outpaces revenue)
+- Adjusted infrastructure and adjusted trust & safety expenses; exclude depreciation and amortization expense (13.55% of revenue)
+- Personnel costs (19.91% of revenue) (29.655% increase y/y)
+- Stock-based compensation expense (23% of revenue) (11.7123% increase y/y)
+
+These initiatives are meant to generate operating leverage that can fund greater creator earnings without worsening losses
+
 
 ![[EBITDA_AdjEBITDA_MarginEBITDA.png]]
 
