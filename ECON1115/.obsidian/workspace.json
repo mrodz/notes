@@ -11,10 +11,26 @@
             "id": "26ba6552131cb894",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025-10-27.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-10-27"
+            }
+          },
+          {
+            "id": "ed32378261fe92a2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/tech_and_jobs.png"
+              },
+              "icon": "lucide-image",
+              "title": "tech_and_jobs"
             }
           }
         ]
@@ -165,19 +181,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "26ba6552131cb894",
+  "active": "3538df12f863d7d7",
   "lastOpenFiles": [
+    "images/monopoly_marginal_rev.png",
+    "images/tech_and_jobs.png",
+    "2025-10-27.md",
     "2025-10-22.md",
+    "2025-10-20.md",
+    "2025-10-13.md",
+    "2025-10-06.md",
     "images/pareto frontier.png",
     "images/pareto A.png",
-    "2025-10-20.md",
     "images/SD Profit.png",
     "images/Supply Curve Redefined.png",
     "Pasted image 20251020135719.png",
     "images/Profit.png",
     "images/Loss.png",
     "images/MC Curve.png",
-    "2025-10-13.md",
     "2025-08-27.md",
     "2025-08-29.md",
     "2025-09-03.md",
@@ -188,9 +208,6 @@
     "2025-09-22.md",
     "2025-09-24.md",
     "2025-10-01.md",
-    "2025-10-06.md",
-    "images/Pasted image 20251013140303.png",
-    "images/Pasted image 20251013135307.png",
     "2025-09-18.md",
     "IMG_8946.heic",
     "images",
