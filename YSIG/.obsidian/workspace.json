@@ -11,12 +11,14 @@
             "id": "ec5ce25d5d1c227f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images/Daily Active Users and Average Bookings per DAU - UCAN.png"
+                "file": "ATP/05 Cash Flow Statement.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Daily Active Users and Average Bookings per DAU - UCAN"
+              "icon": "lucide-file",
+              "title": "05 Cash Flow Statement"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 671.5
+    "width": 318.5
   },
   "right": {
     "id": "f7099baff3107edf",
@@ -167,8 +169,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "f451416aba457d08",
+  "active": "ec5ce25d5d1c227f",
   "lastOpenFiles": [
+    "ATP/04 Balance Sheet.md",
+    "ATP/05 Cash Flow Statement.md",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images/Daily Active Users and Average Bookings per DAU - UCAN.png",
     "Stock Pitch/RBLX/Pitch Deck Round One/Spreadsheets/RBLX Multiples.xlsx",
     "Stock Pitch/RBLX/Pitch Deck Round One/Spreadsheets/~$d.xlsx",
     "Stock Pitch/RBLX/Pitch Deck Round One/Spreadsheets/RBLX Financials over Time from Refinitiv.xlsx",
@@ -193,15 +198,12 @@
     "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images/BR Rest.png",
     "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images/BR UCAN.png",
     "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images/BR Europe.png",
-    "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images/BR APAC.png",
     "Stock Pitch/RBLX/Pitch Deck Round One/Untitled.md",
     "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images",
-    "Stock Pitch/RBLX/Pitch Deck Round One/Shell Pitch Roblox - My Slides for R1.pptx",
     "Stock Pitch/RBLX/Pitch Deck Round One/Tasks/Engagement.md",
     "Stock Pitch/RBLX/Untitled.md",
     "Stock Pitch/RBLX/Preliminary Research/Report.md",
     "ATP/03 Income Statement Breakdown.md",
-    "ATP/04 Balance Sheet.md",
     "ATP/02 Intro to Accounting.md",
     "ATP/01 Intro ATP.md",
     "Stock Pitch/Untitled.md",
