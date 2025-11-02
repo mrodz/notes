@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "eb9c06274fe72382",
+        "id": "c4c5c38e36f509f3",
         "type": "tabs",
         "children": [
           {
-            "id": "8e5e701af4dff62c",
+            "id": "ec5ce25d5d1c227f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images/Daily Active Users and Average Bookings per DAU - UCAN.png"
+              },
+              "icon": "lucide-image",
+              "title": "Daily Active Users and Average Bookings per DAU - UCAN"
             }
           }
         ]
@@ -74,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 671.5
   },
   "right": {
     "id": "f7099baff3107edf",
@@ -167,30 +169,43 @@
   },
   "active": "f451416aba457d08",
   "lastOpenFiles": [
-    "Stock Pitch/RBLX/Roblox Further Questions.pdf",
-    "Stock Pitch/RBLX/RevenueBookings.png",
-    "Stock Pitch/RBLX/RevenueAndEBITDA.png",
-    "Stock Pitch/RBLX/Report.md",
-    "Stock Pitch/RBLX/Receipt Date - 2025-May-01 - RBLX.N - Roblox Corp - 10-Q - Roblox Corp 10-Q - 25899605.pdf",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Spreadsheets/RBLX Multiples.xlsx",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Spreadsheets/~$d.xlsx",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Spreadsheets/RBLX Financials over Time from Refinitiv.xlsx",
+    "Stock Pitch/RBLX/RBLX Financials over Time from Refinitiv.xlsx",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Spreadsheets/d.xlsx",
+    "Stock Pitch/RBLX/~$CF-Export-26-10-2025.xlsx",
+    "Stock Pitch/RBLX/Pitch Deck Round One/RBLX Financials over Time from Refinitiv.xlsx",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Spreadsheets/RBLX Analysis.xlsx",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Spreadsheets",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Tasks.md",
+    "Stock Pitch/RBLX/Preliminary Research/Defs.md",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Tasks/ARPUs.md",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Tasks/DAUq.md",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Tasks/Revenue - Change over time.md",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Tasks/Revenue - US vs International.md",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images/RBLX Bookings over Time.png",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images/Roblox DAU.png",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images/BR UCAN annotated.png",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images/BR Rest annotated.png",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images/BR Europe annotated.png",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images/BR APAC annotated.png",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images/BR Rest.png",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images/BR UCAN.png",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images/BR Europe.png",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images/BR APAC.png",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Untitled.md",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Shell Pitch Roblox - My Slides for R1.pptx",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Tasks/Engagement.md",
+    "Stock Pitch/RBLX/Untitled.md",
+    "Stock Pitch/RBLX/Preliminary Research/Report.md",
     "ATP/03 Income Statement Breakdown.md",
     "ATP/04 Balance Sheet.md",
-    "Homework/ATP HW 1.pdf",
     "ATP/02 Intro to Accounting.md",
-    "Stock Pitch/RBLX/Defs.md",
     "ATP/01 Intro ATP.md",
-    "Stock Pitch/RBLX/Pasted image 20251026015323.png",
-    "Stock Pitch/VICI/VICI Properties Soft Pitch.pdf",
-    "Stock Pitch/RBLX/Pasted image 20251026040906.png",
-    "Stock Pitch/RBLX/Receipt Date - 2025-Jul-31 - RBLX.N - Roblox Corp - 10-Q - Roblox Corp 10-Q - 251169529.pdf",
-    "Stock Pitch/RBLX/~$CF-Export-26-10-2025.xlsx",
-    "Stock Pitch/RBLX/~$rblx_trends.xlsx",
-    "Stock Pitch/RBLX/Receipt Date - 2024-Feb-21 - RBLX.N - Roblox Corp - 10-K - Roblox Corp 10-K - 24656516.pdf",
-    "Stock Pitch/RBLX/GridExport_October_26_2025_4_53_20.xlsx",
-    "Stock Pitch/RBLX/Receipt Date - 2022-Nov-09 - RBLX.N - Roblox Corp - 10-Q - Roblox Corp 10-Q - 221372660.pdf",
-    "Stock Pitch/RBLX/EBITDA_AdjEBITDA_MarginEBITDA.png",
-    "Stock Pitch/RBLX/Pasted image 20251026015213.png",
     "Stock Pitch/Untitled.md",
-    "Debt Capital Markets Overview.md",
+    "General Meeting Notes/Debt Capital Markets Overview.md",
     "Stock Pitch/VICI/Sports and Live Entertainment.md",
     "Stock Pitch/UMG.AS/Half Year Report.md",
     "Welcome.md"

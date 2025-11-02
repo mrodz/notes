@@ -1,0 +1,6 @@
+- [x] Couple charts showing: 
+	- [x] [[DAUq]]
+	- [x] [[ARPUs]]
+	- [x] [[Revenue - US vs international]]
+	- [x] [[Revenue - Change over time]]
+- [x] Write up: Please talk about how Roblox is increasing the age of its users. Also talk about they are creating a thriving developer ecosystem. Use graphs when possible. Can be multiple slides
