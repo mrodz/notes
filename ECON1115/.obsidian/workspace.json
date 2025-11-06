@@ -4,47 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a6e0568b13d3659c",
+        "id": "5354aabfd423694b",
         "type": "tabs",
         "children": [
           {
-            "id": "26ba6552131cb894",
+            "id": "00e2ad518d0c8e97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-10-27.md",
+                "file": "2025-11-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-27"
-            }
-          },
-          {
-            "id": "841883ca0732925d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-10-01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-01"
-            }
-          },
-          {
-            "id": "ee22f5ea056bb61a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20251001135219.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251001135219"
+              "title": "2025-11-05"
             }
           }
         ]
@@ -195,26 +169,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "26ba6552131cb894",
+  "active": "00e2ad518d0c8e97",
   "lastOpenFiles": [
-    "First Degree Price Discrimination.jpg",
-    "2025-10-22.md",
-    "2025-10-27.md",
-    "2025-10-29.md",
+    "Minimum Wage_ PC v Monopsony.jpg",
+    "Monopsony and Price Discrimination.jpg",
+    "images/Monopsony and a Price Floor.jpg",
+    "2025-11-05.md",
+    "images/Monopsony Profit Maximization.jpg",
+    "images/Monopsony Pricing.jpg",
+    "images/Price Ceilings in PC vs Monopolies.jpg",
+    "images/Pasted image 20251001135219.png",
     "2025-10-01.md",
+    "images/First Degree Price Discrimination.jpg",
+    "images/Price Ceilings in Monopolies.jpg",
+    "2025-10-27.md",
+    "2025-10-22.md",
+    "2025-10-29.md",
     "2025-10-06.md",
     "2025-10-13.md",
     "2025-10-20.md",
-    "images/Pasted image 20251001135219.png",
-    "Monopolistic Pricing-2.jpg",
+    "images/Monopolistic Pricing-2.jpg",
     "2025-09-24.md",
     "images/tech_and_jobs.png",
-    "images/Monopolistic Pricing.jpg",
-    "images/monopoly_marginal_rev.png",
-    "images/pareto frontier.png",
-    "images/pareto A.png",
-    "images/SD Profit.png",
-    "images/Supply Curve Redefined.png",
     "2025-08-27.md",
     "2025-08-29.md",
     "2025-09-03.md",
