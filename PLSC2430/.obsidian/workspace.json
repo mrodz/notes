@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025-11-11"
             }
+          },
+          {
+            "id": "164f2a45a118abd6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "2d40f727e791f435",
+  "active": "164f2a45a118abd6",
   "lastOpenFiles": [
     "2025-11-06.md",
     "2025-11-11.md",
