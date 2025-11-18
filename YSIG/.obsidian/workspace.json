@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATP/05 Cash Flow Statement.md",
+                "file": "ATP/06 Value.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 Cash Flow Statement"
+              "title": "06 Value"
             }
           }
         ]
@@ -171,11 +171,13 @@
   },
   "active": "ec5ce25d5d1c227f",
   "lastOpenFiles": [
-    "2025-11-09.md",
+    "Stock Pitch/RBLX/Pitch Deck Round One/Spreadsheets/~$RBLX Analysis.xlsx",
     "ATP/05 Cash Flow Statement.md",
+    "ATP/06 Value.md",
+    "ATP/04 Balance Sheet.md",
+    "2025-11-09.md",
     "ATP/03 Income Statement Breakdown.md",
     "ATP/02 Intro to Accounting.md",
-    "ATP/04 Balance Sheet.md",
     "Stock Pitch/RBLX/Pitch Deck Round One/Exported Graphs and Images/Daily Active Users and Average Bookings per DAU - UCAN.png",
     "Stock Pitch/RBLX/Pitch Deck Round One/Spreadsheets/RBLX Multiples.xlsx",
     "Stock Pitch/RBLX/Pitch Deck Round One/Spreadsheets/~$d.xlsx",
