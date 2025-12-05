@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Homework 7"
             }
+          },
+          {
+            "id": "2f7ef1cf89177b60",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +179,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "260ed4de5b529e2d",
+  "active": "2f7ef1cf89177b60",
   "lastOpenFiles": [
     "images/MATH 2250 problems 1, 2a.pdf",
     "images/MATH 2250 Homework 6 P4.png",
